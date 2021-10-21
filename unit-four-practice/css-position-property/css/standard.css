@@ -1,0 +1,10 @@
+html,
+body{
+    background-color:chartreuse;
+    margin:0;
+}
+.static{
+    border: 1px soilid red;
+    background-color: white;
+    padding:5px;
+}
